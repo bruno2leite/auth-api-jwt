@@ -30,6 +30,21 @@ This is a simple authentication project using **Spring Boot** and **JWT (JSON We
 git clone https://github.com/bruno2leite/auth-api-jwt.git
 cd auth-api-jwt
 ```
+### 2. Start the application
+
+Run with Maven:
+
+```bash
+mvn spring-boot:run
+```
+
+The application will be available by default at:
+
+```
+http://localhost:8080
+```
+
+---
 
 ## 📮 API Endpoints
 

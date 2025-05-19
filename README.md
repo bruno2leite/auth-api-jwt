@@ -113,7 +113,7 @@ Use [Postman](https://www.postman.com/) to test each step:
 ---
 
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
 Developed by **Bruno Leite**  
 Linkedin: www.linkedin.com/in/brunoprestesleite
